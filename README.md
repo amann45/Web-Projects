@@ -1,28 +1,8 @@
-Web Projects
-📌 Overview
-This repository contains web projects:
-🚀 Features
-🔑 Login Form
-Responsive design for desktop and mobile.
+📌 This repository contains various web projects :
 
-Input validation (e.g., required fields, email format).
+1. 🔑Login Form
+2. 📝To-Do-List
 
-Password masking and toggle visibility.
+🔴 All the projects are live at: https://amann45.github.io/Web-Projects/
 
-Error messages for invalid inputs.
-
-📝 To-Do List
-Add new tasks dynamically.
-
-Mark tasks as completed.
-
-Edit and delete tasks.
-
-Local storage support (optional) to persist tasks.
-
-🛠️ Technologies Used
-HTML5 – Structure and semantic markup.
-
-CSS3 – Styling and responsive design.
-
-JavaScript (ES6) – Interactivity and DOM manipulation
+👉 More projects will be added soon !
