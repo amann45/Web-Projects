@@ -1,0 +1,11 @@
+from django.urls import path
+from . import views
+from django.contrib import admin
+
+urlpatterns = [
+    path('admin/', admin.site.urls),
+    path('', views.home, name='home'),
+    path('blog/read/<int:id>/', views.read_one, name='read_one'),
+    path('blog/update/<int:id>/', views.update_one, name='update_one'),
+    path('blog/delete/<int:id>/', views.delete_one, name='delete_one'),
+]
